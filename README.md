@@ -1,2 +1,1 @@
-administrator-Sahil mishra
-this is my first repository
+This repo is for my DSA and other C++ codes.
